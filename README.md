@@ -7,3 +7,4 @@ The pink one is the life bubble it gives you extra 1 life and the yellow one giv
 then the blue one multiplies your score for 5 seconds everytime you get a bubble.
 5.(CRUCIAL STEP) MAKE SURE YOU MAKE A FOLDER AND PLACE THE MAIN FILE IN IT THEN MAKE A FOLDER NAMED "Sound files" AND THEN PLACE THE SOUND FILES.
 6.The game gets harder every 2 or 5 levels.
+7.Download the files.
